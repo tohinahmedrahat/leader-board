@@ -1,0 +1,7 @@
+/* import google font */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+
+/* utilites */
+body {
+  font-family: "Poppins", sans-serif;
+}
